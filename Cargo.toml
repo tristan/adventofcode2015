@@ -1,0 +1,11 @@
+[package]
+name = "adventofcode2015"
+version = "0.1.0"
+authors = ["Tristan King <tristan.king@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name = "day_01"
+path = "src/day_01.rs"
